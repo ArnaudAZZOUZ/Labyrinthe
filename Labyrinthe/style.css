@@ -1,0 +1,25 @@
+.labyrinthe {
+    display: grid;
+    padding: 10px;
+
+}
+.square{
+    background-color: rgba(255, 255, 255, 0.8);
+
+    padding: 20px;
+
+    text-align: center;
+}
+
+.wall-top{
+    border-top:solid 2px;
+}
+.wall-right{
+     border-right: solid 2px;
+ }
+.wall-bottom{
+    border-bottom:solid 2px;
+}
+.wall-left{
+    border-left: solid 2px;
+}
