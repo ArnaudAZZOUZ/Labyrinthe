@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7f22ac8-4cab-42f0-a5e2-c95aa6157b0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Labyrinthe/indexBuild.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labyrinthe/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labyrinthe/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labyrinthe/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labyrinthe/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labyrinthe/indexBuild.js" beforeDir="false" afterPath="$PROJECT_DIR$/Labyrinthe/indexBuild.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Villes" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -53,11 +51,24 @@
       <updated>1607343453430</updated>
       <workItem from="1607343454576" duration="243000" />
       <workItem from="1607343754083" duration="31796000" />
-      <workItem from="1607505874306" duration="15365000" />
+      <workItem from="1607505874306" duration="17819000" />
+      <workItem from="1607690003640" duration="36000" />
     </task>
+    <task id="LOCAL-00001" summary="DFS iteratif">
+      <created>1607614898037</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607614898037</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DFS iteratif" />
+    <option name="LAST_COMMIT_MESSAGE" value="DFS iteratif" />
   </component>
 </project>

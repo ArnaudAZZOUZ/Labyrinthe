@@ -83,9 +83,9 @@ $( document ).ready(function() {
                 return currentcase.case;
             }
 
-
             getNeighborsNotVisited(currentcase,lab1,size).forEach(neighbor =>{
                 stack.push(neighbor);
+                stack = stack.concat(getNeighborsNotVisited(currentcase,lab1,size));
             });
             document.getElementById(`case-${currentcase.case}`).classList.add("visitedcolor");
 
